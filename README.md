@@ -1,7 +1,5 @@
 # Projects before Donbury Quest
 >In this repository, many projects I, or my team done, and their play videos are included.
->For each project, please read .txt files first(Japanese for Japanese companies included). They will help your understanding of my projects.
->Codes are in master branch.
 
 1. IraIra Isekai(2020 winter)
 
