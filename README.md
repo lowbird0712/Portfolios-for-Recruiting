@@ -9,7 +9,7 @@
 
 >Including **main framework system**, **story block system**, which are mainly used in further Unity projects
 
->Including **tilemap system**, which is mainly used in further Unity projects, althogh not used in this project
+>Including **tilemap system**, which is mainly used in further Unity projects, although not used in this project
 
 2. Garden of Witch(2020 summer)
 
@@ -17,20 +17,10 @@
 
 >Including **object interaction system**, which is mainly used in further Unity projects
 
-3. Haerokdo(from 2021 fall)
+3. Haerokdo(2021 fall)
 
 >Unity team project with people, currently working in business
 
->First Unity project using Unity Asset
+>First Unity project using Unity Asset, Naninovel
 
 >Copyright of NPC standing graphic resources is in Peepbo Studio
-
->Including Haerokdo specific version of **story block system**
-
->>Haerokdo specific version : Transformed from default version of story block system
-
->>>Story blocks are not related to objects
-
->>>System can change facial expression of characters
-
->>>System can include selection in the story
