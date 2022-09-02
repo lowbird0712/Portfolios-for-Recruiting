@@ -22,5 +22,3 @@
 >Unity team project with people, currently working in business
 
 >First Unity project using Unity Asset, Naninovel
-
->Copyright of NPC standing graphic resources is in Peepbo Studio
